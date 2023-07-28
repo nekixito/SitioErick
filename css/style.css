@@ -148,7 +148,7 @@ h1,h2,h3{
 /* IMAGEN */
 
 .hero{
-    background-image: url(../img/hero.jpg);
+    background-image: url(../img/hero.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 450px;
